@@ -1,0 +1,6 @@
+<resources>
+    <string name="server_url" translatable="false">ws://YOUR_SERVER_IP:PORT</string>
+    <string name="app_name">WebSocket-client</string>
+    <string name="send">Send</string>
+    <string name="enter_message">Enter Message</string>
+</resources>
