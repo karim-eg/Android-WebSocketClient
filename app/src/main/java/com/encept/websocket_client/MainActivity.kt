@@ -1,18 +1,13 @@
 package com.encept.websocket_client
 
 import android.os.Bundle
-import android.text.TextUtils
 import android.view.LayoutInflater
 import android.view.View
-
 import android.view.ViewGroup
 import android.widget.*
 import androidx.appcompat.app.AppCompatActivity
 import com.encept.websocket_client.databinding.ActivityMainBinding
-import org.java_websocket.handshake.ServerHandshake
-import org.w3c.dom.Text
 import java.net.URI
-import java.text.SimpleDateFormat
 import java.util.*
 
 /*
@@ -88,7 +83,7 @@ class MainActivity : AppCompatActivity() {
             val _inflater = LayoutInflater.from(_container?.context)
             var _view = _v
             if (_view == null) {
-                _view = _inflater.inflate(R.layout.cul, _container, false)
+                _view = _inflater.inflate(R.layout.custom, _container, false)
             }
 
             val text2 = _view?.findViewById<TextView>(R.id.text2)
