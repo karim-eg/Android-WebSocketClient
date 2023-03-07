@@ -235,3 +235,7 @@ class ChatWebSocketClient(serverUri: URI, private val messageListener: (String) 
 - Source Code Is Compatible with any IDE
 - Clean & Simple Code
 
+
+## License
+- All Copyright Saved By Jetbrains.
+- [Apache License](https://www.apache.org/licenses/LICENSE-2.0)
