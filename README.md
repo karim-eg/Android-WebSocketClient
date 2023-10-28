@@ -1,5 +1,7 @@
-# Android WebSocket Client With Kotlin.
+# Android WebSocket Client With Kotlin. [![StandWithPalestine](https://raw.githubusercontent.com/kimoandroid/StandWithPalestine/main/assets/palestine_badge.svg)](https://github.com/kimoandroid/StandWithPalestine)
 Web Socket Clinet Side For Android With Kotlin you can use this app with Ktor Server Side, Find Ktor Project Here: [Ktor WebSocket Server Side](https://github.com/kimoandroid/Ktor-WebSocketServer)
+
+[![StandWithPalestine](https://raw.githubusercontent.com/kimoandroid/StandWithPalestine/main/assets/palestine_banner.svg)](https://github.com/kimoandroid/StandWithPalestine/blob/main/Donate.md)
 
 # App Preview
 <img src="https://user-images.githubusercontent.com/69405523/223534615-48e0b877-da78-4f7a-874b-6b223c841fb8.jpg" width=320/>
